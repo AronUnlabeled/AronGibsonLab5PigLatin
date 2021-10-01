@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\AronGibsonLab5PigLatin.exe
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\AronGibsonLab5PigLatin.deps.json
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\AronGibsonLab5PigLatin.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\AronGibsonLab5PigLatin.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\AronGibsonLab5PigLatin.dll
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\ref\AronGibsonLab5PigLatin.dll
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\bin\Debug\net5.0\AronGibsonLab5PigLatin.pdb
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.dll
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\ref\AronGibsonLab5PigLatin.dll
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.pdb
+C:\Users\aron\source\repos\AronGibsonLab5PigLatin\AronGibsonLab5PigLatin\obj\Debug\net5.0\AronGibsonLab5PigLatin.genruntimeconfig.cache
